@@ -15,7 +15,7 @@
  *  under the License.
  */
 
-package com.spreecommerce;
+package com.spreecommerce.recommender;
 
 
 import org.apache.mahout.cf.taste.common.Refreshable;
