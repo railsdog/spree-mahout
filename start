@@ -1,0 +1,4 @@
+#!/usr/bin/ruby
+
+cmd = "java -jar -Xmx1024M jetty-runner.jar recommender.war"
+exec cmd
